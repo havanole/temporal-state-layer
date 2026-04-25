@@ -1,0 +1,20 @@
+{
+  "name": "temporal-state-layer",
+  "description": "Silent temporal awareness layer for AI agents — accounts for elapsed time, stale context, expired references, and unfinished commitments without exposing timestamps to the user.",
+  "version": "0.1.0",
+  "author": {
+    "name": "KTMudak",
+    "email": "teamthevse@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "temporal",
+    "time-awareness",
+    "continuity",
+    "reminders",
+    "deadlines",
+    "agent",
+    "claude-code"
+  ]
+}

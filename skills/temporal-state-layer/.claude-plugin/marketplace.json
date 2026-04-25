@@ -1,0 +1,20 @@
+{
+  "name": "temporal-state-layer-marketplace",
+  "description": "Marketplace entry for the temporal-state-layer plugin.",
+  "owner": {
+    "name": "KTMudak",
+    "email": "teamthevse@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "temporal-state-layer",
+      "description": "Silent temporal awareness layer for AI agents.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "KTMudak",
+        "email": "teamthevse@gmail.com"
+      }
+    }
+  ]
+}
